@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Francesco99d
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me on !Discord(Francesco#7844)
+- 📫 How to reach me on Discord: **Francesco#7844**
 
-Useful info:
+**Useful info:**
 
 ![Francesco99d's stats](https://github-readme-stats.vercel.app/api?username=Francesco99d&theme=tokyonight) 
 
